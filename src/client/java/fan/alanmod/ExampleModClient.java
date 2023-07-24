@@ -1,4 +1,4 @@
-package com.example;
+package fan.alanmod;
 
 import net.fabricmc.api.ClientModInitializer;
 

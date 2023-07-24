@@ -1,25 +1,25 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "alanmod",
 	"version": "${version}",
-	"name": "Example mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Alan's frist mod",
+	"description": "This is an example description! Tell everyone what your mod is about! A: For learn!",
 	"authors": [
-		"Me!"
+		"Alan_Claude"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Alanclaude/Alans_fabric_mod_learning",
+		"sources": "https://github.com/Alanclaude/Alans_fabric_mod_learning"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/modid/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+          "fan.alanmod.ExampleMod"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+			"fan.alanmod.ExampleModClient"
 		]
 	},
 	"mixins": [

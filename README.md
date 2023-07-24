@@ -12,3 +12,5 @@ This template is available under the CC0 license. Feel free to learn from it and
 # Alan的fabric学习项目
 
 模板来自Fabric Example Mod
+
+git 和各种工具仍在学习
